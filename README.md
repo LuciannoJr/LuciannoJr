@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="lpluciannopajr@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=lpluciannopajr@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
