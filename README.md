@@ -1,4 +1,4 @@
-<h2 align="left">Yo! I'm Luciano. I'm a Cybersecurity and Cloud enthusiast exploring the power of Data Science to solve problems, including threat detection and digital forensics. My repositories include projects on security analytics.</h2>
+<h2 align="left">Yo! I'm Luciano. I'm a Cybersecurity and Cloud enthusiast exploring the power of Data and Tech to solve problems</h2>
 
 ###
 
